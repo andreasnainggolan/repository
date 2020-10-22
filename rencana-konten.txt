@@ -1,7 +1,9 @@
 Rencana Konten
+0. Fitur 2 Inisialisasi Data
 1. Interview
-2. Vlog
-2.1 Fitur 1 Video
-2.2 Fitur 1 Video
+1.1 Fitur 2 Interview Online
+1.2 Fitur 2 Interview Offline
+2. Fitur 2 Video Tutorial
+3. Belajar Angular JS + Spring Boot
 4. Belajar Struktur Data
 4.1 Fitur 1 Algoritma
